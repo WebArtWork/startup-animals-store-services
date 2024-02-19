@@ -2,11 +2,9 @@
 	"name": "service",
 	"service": {
 		"id": "/service",
-		"price": 1200,
-		"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-		"thumb": "https://neryxomka.com/template/img/welcome.png",
-        "thumbs": ["https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png"],
-		"name": "service"
+		"thumb": "/artemvelihin/img/1.jpg",
+        "thumbs": ["/artemvelihin/img/2.jpg", "/artemvelihin/img/3.jpg"],
+		"description": " Training and Behavioral Services: Addressing behavioral issues and providing training services is essential for fostering a positive relationship between pets and their owners. Professional trainers offer guidance on obedience, socialization, and problem-solving, contributing to a harmonious coexistence between animals and their human companions.",
+		"name": "Service"
 	}
 }
